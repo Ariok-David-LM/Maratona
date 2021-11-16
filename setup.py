@@ -11,7 +11,7 @@ setup(
       url='https://github.com/Ariok-David-LM/Maratona/',
       author='León Moreno Ariok David',
       author_email='ariokdavidl@yahoo.com',
-      license='BSD',
+      license='',
       packages=[
             'my_custom_sklearn_transforms'
       ],
